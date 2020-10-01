@@ -1,0 +1,444 @@
+{
+ "kind": "youtube#searchListResponse",
+ "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/YrNWLGC_r9HyGhtbvXj4nhgnhu4\"",
+ "nextPageToken": "CBAQAA",
+ "regionCode": "ES",
+ "pageInfo": {
+  "totalResults": 401581,
+  "resultsPerPage": 16
+ },
+ "items": [
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/yTLocADxNF_vCR_j7pSKQ3ocuBo\"",
+   "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCvjgXvBlbQiydffZU7m1_aw"
+   },
+   "snippet": {
+    "publishedAt": "2006-07-03T18:24:29.000Z",
+    "channelId": "UCvjgXvBlbQiydffZU7m1_aw",
+    "title": "The Coding Train",
+    "description": "In this YouTube channel I publish \"creative coding\" video tutorials every week. Subjects covered range from the basics of programming languages like ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://yt3.ggpht.com/-1rYs64e24jQ/AAAAAAAAAAI/AAAAAAAAAAA/B2LPB2yW030/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "medium": {
+      "url": "https://yt3.ggpht.com/-1rYs64e24jQ/AAAAAAAAAAI/AAAAAAAAAAA/B2LPB2yW030/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "high": {
+      "url": "https://yt3.ggpht.com/-1rYs64e24jQ/AAAAAAAAAAI/AAAAAAAAAAA/B2LPB2yW030/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     }
+    },
+    "channelTitle": "The Coding Train",
+    "liveBroadcastContent": "upcoming"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/JCTEJ34rxxFVpRXOBIDOCpUdg4A\"",
+   "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCKPbiit_j8ycmkutM0wVzdA"
+   },
+   "snippet": {
+    "publishedAt": "2007-06-30T11:06:32.000Z",
+    "channelId": "UCKPbiit_j8ycmkutM0wVzdA",
+    "title": "JavaScript.ru",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://yt3.ggpht.com/-Fi0W5tdsCRY/AAAAAAAAAAI/AAAAAAAAAAA/1ruy7LVBlKo/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "medium": {
+      "url": "https://yt3.ggpht.com/-Fi0W5tdsCRY/AAAAAAAAAAI/AAAAAAAAAAA/1ruy7LVBlKo/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "high": {
+      "url": "https://yt3.ggpht.com/-Fi0W5tdsCRY/AAAAAAAAAAI/AAAAAAAAAAA/1ruy7LVBlKo/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     }
+    },
+    "channelTitle": "JavaScript.ru",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/T9_O5m6rgdaEPHML3S-bj7zHs2k\"",
+   "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCzoVCacndDCfGDf41P-z0iA"
+   },
+   "snippet": {
+    "publishedAt": "2012-10-09T10:21:46.000Z",
+    "channelId": "UCzoVCacndDCfGDf41P-z0iA",
+    "title": "JSConf",
+    "description": "The JSConf YouTube Channel. JSConf is a series of JavaScript conferences from around the world and here we release the conference talk videos for free as ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://yt3.ggpht.com/-lLQJVHClDZM/AAAAAAAAAAI/AAAAAAAAAAA/3sWsdPc8lAs/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "medium": {
+      "url": "https://yt3.ggpht.com/-lLQJVHClDZM/AAAAAAAAAAI/AAAAAAAAAAA/3sWsdPc8lAs/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "high": {
+      "url": "https://yt3.ggpht.com/-lLQJVHClDZM/AAAAAAAAAAI/AAAAAAAAAAA/3sWsdPc8lAs/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     }
+    },
+    "channelTitle": "JSConf",
+    "liveBroadcastContent": "upcoming"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/1FHpaiUXEdwkXkHVx50m6AaYCyM\"",
+   "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCfaupuluJWJAdQuTqb5xxCA"
+   },
+   "snippet": {
+    "publishedAt": "2011-10-30T19:21:07.000Z",
+    "channelId": "UCfaupuluJWJAdQuTqb5xxCA",
+    "title": "JavaScript",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://yt3.ggpht.com/--E38QRgnV9k/AAAAAAAAAAI/AAAAAAAAAAA/xeyXs20y_Wk/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "medium": {
+      "url": "https://yt3.ggpht.com/--E38QRgnV9k/AAAAAAAAAAI/AAAAAAAAAAA/xeyXs20y_Wk/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "high": {
+      "url": "https://yt3.ggpht.com/--E38QRgnV9k/AAAAAAAAAAI/AAAAAAAAAAA/xeyXs20y_Wk/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     }
+    },
+    "channelTitle": "JavaScript",
+    "liveBroadcastContent": "upcoming"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/SJmA2ZkjStP6_YHYQcEsg9JrWz4\"",
+   "id": {
+    "kind": "youtube#channel",
+    "channelId": "UC29ju8bIPH5as8OGnQzwJyA"
+   },
+   "snippet": {
+    "publishedAt": "2009-10-30T21:33:14.000Z",
+    "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+    "title": "Traversy Media",
+    "description": "Traversy Media features the best online web development and programming tutorials for all of the latest web technologies including Node.js, Angular 2, React.js, ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://yt3.ggpht.com/-OsgBxXITFdg/AAAAAAAAAAI/AAAAAAAAAAA/gDaUV_aSb2Q/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "medium": {
+      "url": "https://yt3.ggpht.com/-OsgBxXITFdg/AAAAAAAAAAI/AAAAAAAAAAA/gDaUV_aSb2Q/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "high": {
+      "url": "https://yt3.ggpht.com/-OsgBxXITFdg/AAAAAAAAAAI/AAAAAAAAAAA/gDaUV_aSb2Q/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     }
+    },
+    "channelTitle": "Traversy Media",
+    "liveBroadcastContent": "upcoming"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/okH0_oohXFIq2NHvNprnvk2CxFg\"",
+   "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCfvhSd0KMNry13opvgGe2eA"
+   },
+   "snippet": {
+    "publishedAt": "2017-12-26T18:01:09.000Z",
+    "channelId": "UCfvhSd0KMNry13opvgGe2eA",
+    "title": "Tutorial JavaScript",
+    "description": "In questo tutorial descriverò con esempi ed esercizi tutto quello che serve imparare per cominciare a sviluppare con JavaScript, partirò quindi dalle basi e poi ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://yt3.ggpht.com/-OG-zhf4zCKI/AAAAAAAAAAI/AAAAAAAAAAA/EXHEH2kidqI/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "medium": {
+      "url": "https://yt3.ggpht.com/-OG-zhf4zCKI/AAAAAAAAAAI/AAAAAAAAAAA/EXHEH2kidqI/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "high": {
+      "url": "https://yt3.ggpht.com/-OG-zhf4zCKI/AAAAAAAAAAI/AAAAAAAAAAA/EXHEH2kidqI/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     }
+    },
+    "channelTitle": "Tutorial JavaScript",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/kvBrtQkDd9VrL2cOfIzeS6_pL_0\"",
+   "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCO1cgjhGzsSYb1rsB4bFe4Q"
+   },
+   "snippet": {
+    "publishedAt": "2015-05-15T08:25:01.000Z",
+    "channelId": "UCO1cgjhGzsSYb1rsB4bFe4Q",
+    "title": "Fun Fun Function",
+    "description": "I'm Mattias Petter Johansson, mpj for short. I've been a full-time programmer for about ten years. Among others, I've worked for Absolut Vodka, Blackberry and ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://yt3.ggpht.com/-5ny40r8qe90/AAAAAAAAAAI/AAAAAAAAAAA/IrloZ_OeiYc/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "medium": {
+      "url": "https://yt3.ggpht.com/-5ny40r8qe90/AAAAAAAAAAI/AAAAAAAAAAA/IrloZ_OeiYc/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "high": {
+      "url": "https://yt3.ggpht.com/-5ny40r8qe90/AAAAAAAAAAI/AAAAAAAAAAA/IrloZ_OeiYc/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     }
+    },
+    "channelTitle": "Fun Fun Function",
+    "liveBroadcastContent": "upcoming"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/HSqFSj1lYmpiO2y1AaM2elFSgEo\"",
+   "id": {
+    "kind": "youtube#channel",
+    "channelId": "UC8butISFwT-Wl7EV0hUK0BQ"
+   },
+   "snippet": {
+    "publishedAt": "2014-12-16T21:18:48.000Z",
+    "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+    "title": "freeCodeCamp.org",
+    "description": "We're an open source community of busy people who learn to code and build projects for nonprofits.",
+    "thumbnails": {
+     "default": {
+      "url": "https://yt3.ggpht.com/-bWUaHwGz7To/AAAAAAAAAAI/AAAAAAAAAAA/xEUD6X5iT2Y/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "medium": {
+      "url": "https://yt3.ggpht.com/-bWUaHwGz7To/AAAAAAAAAAI/AAAAAAAAAAA/xEUD6X5iT2Y/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "high": {
+      "url": "https://yt3.ggpht.com/-bWUaHwGz7To/AAAAAAAAAAI/AAAAAAAAAAA/xEUD6X5iT2Y/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     }
+    },
+    "channelTitle": "freeCodeCamp.org",
+    "liveBroadcastContent": "live"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/I1Hhhy1My_lMBxjiU5SZiAg-YQw\"",
+   "id": {
+    "kind": "youtube#channel",
+    "channelId": "UC0tRdbXVDbhaRvZPKsRgmxg"
+   },
+   "snippet": {
+    "publishedAt": "2016-12-21T04:25:32.000Z",
+    "channelId": "UC0tRdbXVDbhaRvZPKsRgmxg",
+    "title": "whatsdev",
+    "description": "Whatsdev is all about programming and web development. Full stack Web development. Back end web development. Front end web development. HTML, Css ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://yt3.ggpht.com/-huJ0FLaPkXw/AAAAAAAAAAI/AAAAAAAAAAA/7JxdM7auij0/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "medium": {
+      "url": "https://yt3.ggpht.com/-huJ0FLaPkXw/AAAAAAAAAAI/AAAAAAAAAAA/7JxdM7auij0/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "high": {
+      "url": "https://yt3.ggpht.com/-huJ0FLaPkXw/AAAAAAAAAAI/AAAAAAAAAAA/7JxdM7auij0/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     }
+    },
+    "channelTitle": "whatsdev",
+    "liveBroadcastContent": "upcoming"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/MLchtX5NwxYyMiTS-Xlo2hLPsfc\"",
+   "id": {
+    "kind": "youtube#channel",
+    "channelId": "UC5Wi_NYysX-LfcqT3Hq9Faw"
+   },
+   "snippet": {
+    "publishedAt": "2011-10-10T20:06:20.000Z",
+    "channelId": "UC5Wi_NYysX-LfcqT3Hq9Faw",
+    "title": "Dylan Israel",
+    "description": "Coders and inspiring programmers have come to the correct channel. Daily uploads of multiple object oriented programming languages. Specializing with ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://yt3.ggpht.com/-sIqBNjUA8nc/AAAAAAAAAAI/AAAAAAAAAAA/Pp0B5iUg1Wo/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "medium": {
+      "url": "https://yt3.ggpht.com/-sIqBNjUA8nc/AAAAAAAAAAI/AAAAAAAAAAA/Pp0B5iUg1Wo/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "high": {
+      "url": "https://yt3.ggpht.com/-sIqBNjUA8nc/AAAAAAAAAAI/AAAAAAAAAAA/Pp0B5iUg1Wo/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     }
+    },
+    "channelTitle": "Dylan Israel",
+    "liveBroadcastContent": "upcoming"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/vY2xbGzVG9hzH1V0XUEr0f1uab8\"",
+   "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCk4hLXI9GW1IamTYjAmdudg"
+   },
+   "snippet": {
+    "publishedAt": "2017-08-04T04:31:54.000Z",
+    "channelId": "UCk4hLXI9GW1IamTYjAmdudg",
+    "title": "Javascript The Game",
+    "description": "experiential learning channel.",
+    "thumbnails": {
+     "default": {
+      "url": "https://yt3.ggpht.com/-xmvE6zy6VDw/AAAAAAAAAAI/AAAAAAAAAAA/xBA77vTpEMs/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "medium": {
+      "url": "https://yt3.ggpht.com/-xmvE6zy6VDw/AAAAAAAAAAI/AAAAAAAAAAA/xBA77vTpEMs/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "high": {
+      "url": "https://yt3.ggpht.com/-xmvE6zy6VDw/AAAAAAAAAAI/AAAAAAAAAAA/xBA77vTpEMs/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     }
+    },
+    "channelTitle": "Javascript The Game",
+    "liveBroadcastContent": "upcoming"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/MXQtrilMnOKwI99pQNx5AHKL5vM\"",
+   "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCEZxgpJ7UA0v6ojsh-lzDdQ"
+   },
+   "snippet": {
+    "publishedAt": "2006-08-18T02:41:08.000Z",
+    "channelId": "UCEZxgpJ7UA0v6ojsh-lzDdQ",
+    "title": "Learn Javascript Testing",
+    "description": "OrnaIT - \"Spark of Inspiration\"",
+    "thumbnails": {
+     "default": {
+      "url": "https://yt3.ggpht.com/-ABIjwXZy5G8/AAAAAAAAAAI/AAAAAAAAAAA/WcYuv4lgaQY/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "medium": {
+      "url": "https://yt3.ggpht.com/-ABIjwXZy5G8/AAAAAAAAAAI/AAAAAAAAAAA/WcYuv4lgaQY/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "high": {
+      "url": "https://yt3.ggpht.com/-ABIjwXZy5G8/AAAAAAAAAAI/AAAAAAAAAAA/WcYuv4lgaQY/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     }
+    },
+    "channelTitle": "Learn Javascript Testing",
+    "liveBroadcastContent": "upcoming"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/5EVJf1Xe6k_r_un4SLuM0R5JfKU\"",
+   "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCtdhQ5dsnKkd85d80IOzUvg"
+   },
+   "snippet": {
+    "publishedAt": "2019-02-01T12:00:59.000Z",
+    "channelId": "UCtdhQ5dsnKkd85d80IOzUvg",
+    "title": "Սովորել JavaScript",
+    "description": "Այլ ալիքը նախատեսված է սկսնակներին JavaScript լեզվի դասընթացներ տրամադրելու համար։ Բաժանորդագրվեք, և ակտիվ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://yt3.ggpht.com/-jCINz-l4hlI/AAAAAAAAAAI/AAAAAAAAAAA/lW63Dstb2YM/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "medium": {
+      "url": "https://yt3.ggpht.com/-jCINz-l4hlI/AAAAAAAAAAI/AAAAAAAAAAA/lW63Dstb2YM/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "high": {
+      "url": "https://yt3.ggpht.com/-jCINz-l4hlI/AAAAAAAAAAI/AAAAAAAAAAA/lW63Dstb2YM/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     }
+    },
+    "channelTitle": "Սովորել JavaScript",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/TOKXgtDUgkmaS_wjN5XSaxolK88\"",
+   "id": {
+    "kind": "youtube#channel",
+    "channelId": "UC24tiAt2fssTBgJKeWTwASQ"
+   },
+   "snippet": {
+    "publishedAt": "2016-05-09T15:08:07.000Z",
+    "channelId": "UC24tiAt2fssTBgJKeWTwASQ",
+    "title": "JavaScript Lab",
+    "description": "JavascriptLab - des tutos frais du laboratoire est une société d'e-learning spécialisée dans la création de formations en ligne de haute qualité pour le ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://yt3.ggpht.com/-CRLgMX1Rae0/AAAAAAAAAAI/AAAAAAAAAAA/nrTHf4LeRF0/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "medium": {
+      "url": "https://yt3.ggpht.com/-CRLgMX1Rae0/AAAAAAAAAAI/AAAAAAAAAAA/nrTHf4LeRF0/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "high": {
+      "url": "https://yt3.ggpht.com/-CRLgMX1Rae0/AAAAAAAAAAI/AAAAAAAAAAA/nrTHf4LeRF0/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     }
+    },
+    "channelTitle": "JavaScript Lab",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/WZ3asVSZ2UMGWjFlaA-cUpJXm_0\"",
+   "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCmXmlB4-HJytD7wek0Uo97A"
+   },
+   "snippet": {
+    "publishedAt": "2018-12-25T10:37:24.000Z",
+    "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+    "title": "JavaScript Mastery",
+    "description": "The purpose of JavaScript Mastery is to help aspiring and established developers to take their development skills to the next level and build awesome apps.",
+    "thumbnails": {
+     "default": {
+      "url": "https://yt3.ggpht.com/-wwTBthRpvFs/AAAAAAAAAAI/AAAAAAAAAAA/E9sP7rIoUOI/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "medium": {
+      "url": "https://yt3.ggpht.com/-wwTBthRpvFs/AAAAAAAAAAI/AAAAAAAAAAA/E9sP7rIoUOI/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "high": {
+      "url": "https://yt3.ggpht.com/-wwTBthRpvFs/AAAAAAAAAAI/AAAAAAAAAAA/E9sP7rIoUOI/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     }
+    },
+    "channelTitle": "JavaScript Mastery",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/eZjuGKtgwyNyRT2uuRDX5Qau3r0\"",
+   "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCMzJVrWeaKUotLPWTdx6HuQ"
+   },
+   "snippet": {
+    "publishedAt": "2018-08-22T10:52:13.000Z",
+    "channelId": "UCMzJVrWeaKUotLPWTdx6HuQ",
+    "title": "JavaScript de Zéro",
+    "description": "Apprenez en vidéo les bases de la programmation avec le langage JavaScript (ES6+). Si vous n'avez jamais programmé de votre vie et que vous voulez ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://yt3.ggpht.com/-B0LWeqQHjb4/AAAAAAAAAAI/AAAAAAAAAAA/bLyGXuQZsIk/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "medium": {
+      "url": "https://yt3.ggpht.com/-B0LWeqQHjb4/AAAAAAAAAAI/AAAAAAAAAAA/bLyGXuQZsIk/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "high": {
+      "url": "https://yt3.ggpht.com/-B0LWeqQHjb4/AAAAAAAAAAI/AAAAAAAAAAA/bLyGXuQZsIk/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     }
+    },
+    "channelTitle": "JavaScript de Zéro",
+    "liveBroadcastContent": "upcoming"
+   }
+  }
+ ]
+}

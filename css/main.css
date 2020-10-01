@@ -1,0 +1,156 @@
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+/* Principal */
+main {
+    margin: 20px auto;
+    width: 100%;
+    max-width: 960px;
+    min-width: 320px;
+    min-height: 300px;
+    padding: 20px;
+    border: 1px solid;
+    font-family: sans-serif;
+    display: grid;
+    grid-template-areas: 
+        "header header"
+        "videos canales";
+    grid-template-columns: 3fr 1fr;
+    grid-template-rows: auto 1fr;
+    align-items: start;
+    grid-gap: 20px;
+}
+
+@media screen and (max-width: 768px) {
+    main {
+        grid-template-areas: 
+            "header header"
+            "videos videos"
+            "canales canales";
+    }
+}
+
+/* Cabecera */
+.cabecera {
+    text-align: center;
+    grid-area: header;
+}
+
+.cabecera__formulario {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.cabecera__formulario__texto {
+    flex-basis: 20%;
+    text-align: right;
+}
+
+.cabecera__formulario__busqueda {
+    flex-basis: 50%;
+    padding: 15px;
+    font-size: 18px;
+}
+
+.cabecera__formulario__buscar {
+    flex-basis: 25%;
+    font-size: 18px;
+    border: 0;
+    margin: 0;
+    display: block;
+    padding:10px;
+    color: white;
+    background-color: black;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 768px) {
+    .cabecera__formulario__texto {
+        text-align: center;
+    }
+    
+    .cabecera__formulario__texto,
+    .cabecera__formulario__busqueda,
+    .cabecera__formulario__buscar {
+        flex-basis: 100%;
+    }
+}
+
+/* Listado de vídeos */
+.videos {
+    grid-area: videos;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.videos__titulo {
+    text-align: center;
+    flex-basis: 100%;
+}
+
+.video {
+    flex-basis: 48%;
+    margin-bottom: 20px;
+}
+
+.video__enlace {
+    display: inline-block;
+}
+
+.video__imagen {
+    width: 100%;
+    height: auto;
+}
+
+.video:last-of-type {
+    margin-bottom: 0;
+}
+
+/* Listado de canales */
+.canales {
+    grid-area: canales;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+}
+
+.canales__titulo {
+    text-align: center;
+    flex-basis: 100%;
+}
+
+.canal {
+    flex-basis: 50%;
+    text-align: center;
+}
+
+.canal__enlace {
+    display: inline-block;
+}
+
+.canal__enlace:hover .canal__imagen {
+    opacity: 1;
+}
+
+.canal__imagen {
+    width: 100%;
+    height: auto;
+    opacity: .5;
+    transition: opacity .5s ease-in-out;
+}
+
+@media screen and (max-width: 768px) {
+    .canal {
+        flex-basis: 25%;
+    }
+}
